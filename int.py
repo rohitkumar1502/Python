@@ -1,0 +1,2 @@
+Input= Name
+print=Name

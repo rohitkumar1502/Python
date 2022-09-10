@@ -1,0 +1,1 @@
+# WAP to check whether a character enter by a user is a vowel or not.
